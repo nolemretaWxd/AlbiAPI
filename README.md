@@ -1,8 +1,11 @@
-# AlbiPoster
+# AlbiAPI
 
-Z nudów stworzyłem skrypt który pozwala na dodawanie postów na serwis Albicla.
-Raczej nie załatają bo to wysyła identyczne żądanie jak Google Chrome.
+Simple API for usage with Polish social media site, albicla.com
 
-## Wymagania
-* requests
-* requests_toolbelt
+## How to get started
+
+To start using AlbiAPI, just install it using
+`pip install albiapi`
+
+In Python, import it using
+`from albiapi import *`
