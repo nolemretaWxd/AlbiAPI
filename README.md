@@ -6,7 +6,7 @@ Simple API for usage with Polish social media site, albicla.com
 
 To start using AlbiAPI, just install it using
 ```py
-pip install albiapi
+pip install ./AlbiAPI-1.0.0.tar
 ```
 In Python, import it using
 ```py
