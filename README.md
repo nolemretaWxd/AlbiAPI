@@ -4,7 +4,7 @@ Simple API for usage with Polish social media site, albicla.com
 
 ## How to get started
 
-To start using AlbiAPI, just install it using
+To start using AlbiAPI, get it from releases and run
 ```py
 pip install ./AlbiAPI-1.0.0.tar
 ```
