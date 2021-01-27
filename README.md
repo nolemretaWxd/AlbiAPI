@@ -10,7 +10,7 @@ pip install ./AlbiAPI-1.0.0.tar
 ```
 In Python, import it using
 ```py
-from albiapi import *
+from AlbiAPI import *
 ```
 And create client instance using the `AlbiclaClient()` class and log in
 ```py
