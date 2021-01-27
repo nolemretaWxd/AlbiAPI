@@ -2,14 +2,14 @@ import os
 try:
     import requests
 except ImportError:
-    print("Brak biblioteki reequests! Zainstaluj ją za pomocą narzędzia pip")
+    print("Brak biblioteki requests! Zainstaluj ją za pomocą narzędzia pip")
     os.system("pause")
     exit()
 
 try:
     from requests_toolbelt import MultipartEncoder
 except ImportError:
-    print("Brak biblioteki reequests_toolbelt! Zainstaluj ją za pomocą narzędzia pip")
+    print("Brak biblioteki requests_toolbelt! Zainstaluj ją za pomocą narzędzia pip")
     os.system("pause")
     exit()
 
